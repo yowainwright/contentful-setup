@@ -28,7 +28,7 @@
   "dependencies": {
     "chalk": "^1.1.3",
     "cli-table2": "^0.2.0",
-    "contentful": "^4.3.0"
+    "contentful": "^7.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
